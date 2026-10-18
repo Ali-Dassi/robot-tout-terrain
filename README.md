@@ -25,8 +25,8 @@ Projet de groupe visant à concevoir et développer un robot tout-terrain capabl
 - Mohamed yassine jouini
 - Ali Dassi
 - Iheb Cherif
--Nassir manouchi
--Mohamed mouheb hajji 
+- Nassir manouchi
+- Mohamed mouheb Hajji
 
 
 
