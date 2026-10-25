@@ -10,8 +10,8 @@ Projet de groupe visant à concevoir et développer un robot tout-terrain capabl
 - Tester les performances du robot sur différents terrains.
 
 ## 3. Architecture du système
-- **Mécanique :** châssis, roues et supports.
-- **Électronique :** carte de commande, alimentation et drivers moteurs.
+- **Mecanique :** châssis, roues et supports.
+- **Electronique :** carte de commande, alimentation et drivers moteurs.
 - **Firmware :** commande des moteurs, lecture des capteurs et logique de déplacement.
 
 ## 4. Organisation du dépôt
